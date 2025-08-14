@@ -17,3 +17,4 @@ This report will detail the network's structure, including repeater locations, t
 antenna configurations, and microwave link design, supported by radio coverage maps and
 Fresnel zone analysis. The outcomes will demonstrate a cost-effective and high-performance
 PMR network tailored to the geographical and technical requirements of the Mashhad region.
+
