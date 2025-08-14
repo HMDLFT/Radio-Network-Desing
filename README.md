@@ -1,4 +1,4 @@
-# Radio-Network-Desing
+# Radio-Network-Design
 Wireless and Mobile Propagation Project - Polimi
 The design of a robust and efficient Private Mobile Radio (PMR) network is critical for
 supporting professional users including emergency services, security personnel, and other
